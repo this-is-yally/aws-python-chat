@@ -5,7 +5,7 @@ import sys
 
 # Constants
 SERVER_HOST = "0.0.0.0"
-SERVER_PORT = 5002
+SERVER_PORT = 8080
 separator_token = "<SEP>"
 
 # Global variables
